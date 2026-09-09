@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: DiamondPriceprediction
+Version: 0.0.1
+Author: Pwskills
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: flask
+Dynamic: author
+Dynamic: requires-dist
